@@ -2,7 +2,7 @@
 
 Dear Learner,
 
-due to dependecies or product updates, you could potentially run into some issues from time to time.
+please refer to the [troubleshooting guide](https://github.com/markushaug/btp-side-by-side-extension-learning-journey/blob/main/TROUBLESHOOTING.md) in the main branch of the repository.
 
 Before posting a question in our [SAP Learning Group](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning), please **read** this troubleshooting guide **carefully**.
 
@@ -123,3 +123,6 @@ build-parameters:
 modules:
 [...]
 ```
+Best regards,
+
+Markus & The Course Authors
